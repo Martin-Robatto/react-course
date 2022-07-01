@@ -1,3 +1,6 @@
+# Documentation
+[Notion](https://martin-personal.notion.site/ReactJS-3afd5e9790d548bc91ba1cef9d3120e0)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

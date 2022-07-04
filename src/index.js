@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import { SimpleForm } from './02-useEffect/SimpleForm';
+import { MemoHook } from './06-Memo/MemoHook';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   // <React.StrictMode>
-    <SimpleForm />
+    <MemoHook />
   // </React.StrictMode>
 );
